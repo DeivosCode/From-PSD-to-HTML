@@ -243,10 +243,11 @@ body {
     filter: grayscale(100%);
     transition: .3s ease-out;
     padding: 30px;
+    filter: brightness(0) opacity(0.1);
 }
 
 .clients__logo:hover {
-    filter: grayscale(0);
+    filter: none;
     transform: scale(1.3);
 }
 
