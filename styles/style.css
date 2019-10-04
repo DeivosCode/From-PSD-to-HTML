@@ -242,7 +242,7 @@ body {
 .clients__logo{
     filter: grayscale(100%);
     transition: .3s ease-out;
-    padding: 0 30px;
+    padding: 30px;
 }
 
 .clients__logo:hover {
